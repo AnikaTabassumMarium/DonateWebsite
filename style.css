@@ -1,0 +1,246 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.head{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+
+
+
+}
+
+.head-text{
+    text-align: center;
+    padding: 0px 300px;
+    padding-top: 200px;
+    
+}
+
+.head-text h1{
+    font-size: 60px;
+    color: white;
+    margin-bottom: 0;
+
+}
+
+.head-text p{
+    color: white;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.head-text a{
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    background-color: tomato;
+    padding: 15px 25px;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+
+/* body--1 */
+
+.body1{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.body1-text{
+    text-align: center;
+    padding: 15px 400px;
+}
+
+.body1-text h2{
+    font-size: 50px;
+
+}
+
+.body1-text p{
+    font-size: 20px;
+    color: gray;
+}
+.taka {
+    display: flex;
+  
+    margin-left: 240px;
+    gap: 25px;
+}
+
+.amount{
+    color: gray;
+    height: 140px;
+    width: 140px;
+    background-color: rgb(247, 245, 245);
+    text-align: center;
+    border-radius: 5px;
+
+}
+
+.amount h3{
+    font-size: 35px;
+    padding-top: 10px;
+}
+
+#unique{
+    background-color: rgb(255, 235, 228);
+    border: 3px solid tomato;
+}
+
+#unique h3{
+    color: tomato;
+}
+
+.others{
+    border-bottom: 2px solid rgb(196, 196, 196);
+    margin: 0px 350px;
+     margin-top: 80px; 
+     margin-bottom: 60px;
+}
+.others p{
+    color: gray;
+    font-size: 18px;
+}
+
+.button{
+
+    padding: 15px 40px;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+    background-color: tomato;
+    
+}
+
+
+.body2{
+    margin: 150px 0px;
+}
+
+.body2-text{
+    text-align: center;
+}
+
+.body2-text h2{
+    font-size: 45px;
+}
+
+.body2-text p{
+    font-size: 18px;
+    padding: 10px 350px;
+    color: gray;
+}
+
+.varity{
+    display: flex;
+    margin-left: 80px;
+   
+    gap: 25px;
+}
+
+.varity h4{
+    font-size: 30px;
+}
+
+.varity p{
+    font-size: 17px;
+    color: gray;
+}
+
+
+.bin{
+    background-color: rgb(221, 221, 221);
+
+    width: 320px;
+    border-radius: 5px;
+    padding: 30px 20px;
+
+    
+}
+
+.image{
+    padding-top: 35px;
+}
+#varity2{
+    background-color: rgb(248, 235, 230);
+}
+#varity3{
+    background-color: rgb(250, 232, 202);
+}
+
+
+
+
+
+.body3{
+    text-align: center;
+
+}
+
+.body3-text h2{
+  
+    font-size: 50px;
+
+}
+.body3-text p{
+    font-size: 19px;
+    color: grey;
+    padding: 0px 350px;
+}
+
+.update{
+    background-color: rgb(255, 238, 211);
+
+    padding: 80px 0px;
+
+    margin: 0px 320px;
+}
+
+.update-email{
+    font-size: 18px;
+    padding: 8px 8px;
+    border: 2px solid gainsboro;
+    
+    
+    background-color: gainsboro;
+    margin: 0;
+}
+
+.subscribe{
+    font-size: 18px;
+    background-color: tomato;
+    border: 2px solid tomato;
+    padding: 8px 8px;
+   
+     margin: 0; 
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(5, 5, 22);
+    margin-top: 150px;
+    margin-bottom: 0px;
+}
+
+footer h2{
+    padding-top: 50px ;
+}
+
+span{
+    font-size: 30px;
+    color: tomato;
+    font-family: sans-serif;
+  
+    
+}
+
+footer p{
+    color: white;
+    padding-bottom: 40px;
+}
